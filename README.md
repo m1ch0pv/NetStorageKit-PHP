@@ -1,5 +1,7 @@
 # Akamai NetStorage for PHP
 
+[![boost my agents](https://app.boostmyagents.com/badge/m1ch0pv/NetStorageKit-PHP.svg)](https://app.boostmyagents.com/d/m1ch0pv/NetStorageKit-PHP)
+
 This library provides the following NetStorage tools
  
 - a [FlySystem](http://flysystem.thephpleague.com) adapter for NetStorage FileStore (`\Akamai\NetStorage\FileStoreAdapter`)
